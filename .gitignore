@@ -1,0 +1,59 @@
+# Abhängigkeiten
+node_modules/
+bower_components/
+jspm_packages/
+
+# Build-Ausgaben
+dist/
+build/
+out/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+
+# Umgebungsvariablen und Geheimnisse
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.json
+credentials.json
+.netrc
+.htpasswd
+
+# Deploy- und Hoster-Konfiguration mit Zugangsdaten
+.ftp-config
+sftp-config.json
+.vscode/sftp.json
+.firebase/
+.vercel/
+.netlify/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Editor
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Schriftdateien werden lokal ergänzt (siehe fonts/README.txt)
+fonts/*.woff2
+fonts/*.woff
+fonts/*.ttf
+fonts/*.otf

@@ -25,7 +25,7 @@
 </style>
 <style>
   :root{
-    --night:#0C0F13; --night-2:#141920; --ivory:#F3F1EC; --ivory-2:#E8E4DC;
+    --night:#183229; --night-2:#203C36; --ivory:#F3F1EC; --ivory-2:#E8E4DC;
     --ink:#14181D; --ink-soft:#3E454E; --muted:#767D86;
     --brass:#B4914F; --brass-lite:#C7A461; --brass-soft:#F1EADB;
     --line:#DED9D0; --line-dark:rgba(243,241,236,.14);
@@ -72,7 +72,7 @@
   .btn{display:inline-flex; align-items:center; justify-content:center; gap:10px; padding:14px 26px; text-decoration:none;
     font-size:.9rem; font-weight:500; border:1px solid transparent; border-radius:2px; white-space:nowrap; cursor:pointer;
     font-family:inherit; transition:background .22s,color .22s,border-color .22s,transform .18s}
-  .btn-brass{background:var(--brass); color:#0C0F13}
+  .btn-brass{background:var(--brass); color:#183229}
   .btn-brass:hover{background:var(--brass-lite); transform:translateY(-1px)}
   .btn-outline{border-color:rgba(243,241,236,.32); color:var(--ivory); background:transparent}
   .btn-outline:hover{border-color:var(--ivory); transform:translateY(-1px)}
@@ -149,7 +149,7 @@
   .seg{display:flex; border:1px solid var(--line-dark)}
   .seg button{flex:1; background:transparent; border:0; color:rgba(243,241,236,.6); padding:12px 10px; font:inherit;
     font-size:.85rem; cursor:pointer; transition:background .2s,color .2s}
-  .seg button[aria-pressed="true"]{background:var(--brass); color:#0C0F13; font-weight:500}
+  .seg button[aria-pressed="true"]{background:var(--brass); color:#183229; font-weight:500}
   .out-row{display:flex; justify-content:space-between; gap:20px; padding:14px 0; border-bottom:1px solid var(--line-dark);
     font-size:.94rem; color:rgba(243,241,236,.72)}
   .out-row.big{border-bottom:none; padding-top:22px; align-items:baseline}
@@ -182,7 +182,7 @@
 
   /* Person */
   .person{display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:72px; align-items:start; margin-top:20px}
-  .portrait{margin:0}
+  .portrait{margin:0; max-width:320px}
   .portrait img{display:block; width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; object-position:center top;
     border:1px solid var(--line); background:var(--ivory-2)}
   .portrait figcaption{margin-top:14px; font-size:.83rem; color:var(--muted); letter-spacing:.02em}
@@ -273,6 +273,7 @@
 
   @media (max-width:1020px){
     .head-split,.person,.contact-grid,.calc-grid,.legal{grid-template-columns:1fr; gap:44px}
+    .portrait{max-width:220px}
     .cols-3,.deals,.safety{grid-template-columns:1fr}
     .col,.deal,.safe{border-right:none; border-bottom:1px solid var(--line); padding-right:0}
     .deal{border-bottom-color:var(--line-dark)}

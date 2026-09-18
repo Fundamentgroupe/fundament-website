@@ -1,6 +1,6 @@
 # fundament-website
 
-Website der Fundament GmbH i. G. — Förderkapital, Fremdkapital, Beteiligungskapital.
+Website der Fundament GmbH. Förderkapital, Fremdkapital, Beteiligungskapital.
 
 Eine statische Seite. Kein Build, kein Server, keine Datenbank, keine Abhängigkeiten.
 

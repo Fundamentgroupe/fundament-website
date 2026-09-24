@@ -70,7 +70,6 @@ Mailprogramm des Besuchers.
 |---|---|
 | `kontakt@fundament-kapital.de` | 4 |
 | Telefonnummer | derzeit bewusst keine angegeben |
-| Deckungssumme der Vermögensschadenhaftpflicht | Impressum und zwei Textstellen |
 | Handelsregisternummer und USt-IdNr. | Impressum, sobald die Eintragung vorliegt |
 
 Alles per Suchen-und-Ersetzen in `index.html` änderbar.

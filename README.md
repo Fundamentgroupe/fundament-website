@@ -29,12 +29,9 @@ beliebigen Webspace-Paket. Ein VPS ist nicht nötig.
 
 ## Schriften
 
-Die Seite lädt **keine** Google Fonts — das ist in Deutschland abmahnfähig. Sie
-ruft überhaupt keine externen Ressourcen ab. Solange `fonts/` leer ist, greifen
-Systemschriften; die Seite funktioniert dann vollständig, sieht nur etwas anders
-aus als entworfen.
-
-Für die entworfene Typografie vier Dateien nach `fonts/` legen:
+Die Seite lädt **keine** Google Fonts zur Laufzeit — das ist in Deutschland
+abmahnfähig. Sie ruft im Browser des Besuchers keine externen Ressourcen ab.
+Die vier Dateien in `fonts/` sind seit 2026-10-02 fest im Repo committet:
 
 ```
 fonts/instrument-serif-400.woff2
@@ -45,10 +42,11 @@ fonts/ibm-plex-sans-600.woff2
 
 Quellen: [Instrument Serif](https://fonts.google.com/specimen/Instrument+Serif)
 und [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans), beide unter
-SIL Open Font License, Umwandlung nach woff2 z. B. über transfonter.org.
+SIL Open Font License — einmalig heruntergeladen, nicht zur Laufzeit nachgeladen.
 
-Die Dateien sind per `.gitignore` vom Repository ausgenommen — Binärdateien
-gehören nicht in die Versionierung, sie werden beim Deployment mitgeliefert.
+Bei GitHub Pages ist das Repo selbst die Auslieferung, deshalb müssen die
+Binärdateien hier versioniert sein (anders als bei klassischem Webspace, wo man
+sie separat hochlädt).
 
 ## JavaScript
 

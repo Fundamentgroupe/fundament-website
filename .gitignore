@@ -52,8 +52,5 @@ desktop.ini
 .vscode/*
 !.vscode/extensions.json
 
-# Schriftdateien werden lokal ergänzt (siehe fonts/README.txt)
-fonts/*.woff2
-fonts/*.woff
-fonts/*.ttf
-fonts/*.otf
+# Schriftdateien liegen im Repo (GitHub Pages liefert direkt aus dem Repo aus,
+# ein manueller Upload-Schritt wie bei klassischem Webspace entfaellt hier)

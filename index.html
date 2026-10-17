@@ -110,7 +110,7 @@
   .tick{width:16px; height:16px; flex:none; color:var(--brass); margin-top:4px}
 
   /* Kennzahlen */
-  .figures{display:grid; grid-template-columns:repeat(4,1fr); border-top:1px solid var(--line-dark); margin-top:42px}
+  .figures{display:grid; grid-template-columns:repeat(3,1fr); border-top:1px solid var(--line-dark); margin-top:42px}
   .figure{padding:38px 30px 38px 0; border-right:1px solid var(--line-dark)}
   .figure:last-child{border-right:none; padding-right:0}
   .figure .n{font-family:"Instrument Serif",Georgia,"Iowan Old Style",serif; font-size:2.9rem; line-height:1; letter-spacing:-.02em; color:var(--brass)}
@@ -286,6 +286,7 @@
     .deal{border-bottom-color:var(--line-dark)}
     .col:last-child,.deal:last-child,.safe:last-child{border-bottom:none}
     .figures{grid-template-columns:repeat(2,1fr)}
+    .figures .figure:last-child:nth-child(odd){grid-column:1/-1}
     .figure{border-right:none; padding-right:0; border-bottom:1px solid var(--line-dark)}
     .principles,.facts,.terms,.branchen{grid-template-columns:1fr; gap:0}
     .honest-grid,.fk-grid{grid-template-columns:1fr; gap:26px}
@@ -394,7 +395,6 @@
         <div class="figure"><div class="n">20+</div><div class="l">persönlich begleitete Förderprojekte</div></div>
         <div class="figure"><div class="n">&gt; 2 Mio. €</div><div class="l">bewilligtes Fördervolumen in diesen Projekten</div></div>
         <div class="figure"><div class="n">2,5 Jahre</div><div class="l">Landesleiter Deutschland eines europäischen Förderkapitalberaters</div></div>
-        <div class="figure"><div class="n">WU · Stanford</div><div class="l">Berufsbegleitendes Master-Studium, WU Wien · Managementprogramm, Stanford GSB</div></div>
       </div>
       <p class="footnote reveal">Diese Angaben beschreiben ausschließlich die persönliche Berufserfahrung von
         Franz-Josef Kaiser als Landesleiter Deutschland (Country Manager) eines europäischen Beratungshauses. Sie sind weder
@@ -785,7 +785,7 @@
           <div class="cv reveal">
             <div class="cv-row"><span>2024 – 2026</span><div>Landesleiter Deutschland, europäisches Beratungshaus für Förderkapital</div></div>
             <div class="cv-row"><span>2021 – 2024</span><div>Gründer und Geschäftsführer eines eigenen Unternehmens</div></div>
-            <div class="cv-row"><span>seit 2026</span><div>Berufsbegleitendes Master-Studium (Executive MBA), Wirtschaftsuniversität Wien · Managementprogramm, Stanford Graduate School of Business</div></div>
+            <div class="cv-row"><span>seit 2026</span><div>Executive MBA, Wirtschaftsuniversität Wien · Managementprogramm, Stanford Graduate School of Business</div></div>
             <div class="cv-row"><span>2019 – 2024</span><div>B.Sc. Business Administration and Economics, Universität Passau</div></div>
             <div class="cv-row"><span>Sprachen</span><div>Deutsch, Englisch</div></div>
           </div>

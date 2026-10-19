@@ -319,3 +319,20 @@
   .foot > div:first-child{display:flex; flex-wrap:wrap; gap:10px 24px}
   .foot a{margin-right:0}
   section[id],main[id]{scroll-margin-top:84px}
+  /* Fachbeiträge */
+  .page-hero.article{padding:64px 0 52px}
+  .page-hero.article h1{font-size:clamp(1.8rem,3.2vw,2.6rem); max-width:34ch; line-height:1.12}
+  .byline{margin:22px 0 0; font-size:.88rem; color:rgba(243,241,236,.78)}
+  .byline a{color:rgba(243,241,236,.9)}
+  .artsum{margin:0 0 8px; padding:22px 26px; border-left:3px solid var(--brass); background:var(--brass-soft)}
+  .artsum p{margin:0; color:var(--ink)}
+  .tbl-wrap{overflow-x:auto; margin:18px 0 26px}
+  .tbl-wrap .tbl{margin:0; min-width:560px}
+  .related-list{list-style:none; padding:0; margin:0}
+  .related-list li{border-top:1px solid var(--line)}
+  .related-list li:last-child{border-bottom:1px solid var(--line)}
+  .related-list a{display:block; padding:22px 0; text-decoration:none}
+  .related-list b{display:block; font-family:"Instrument Serif",Georgia,serif; font-weight:400; font-size:1.35rem; line-height:1.25; margin-bottom:6px}
+  .related-list span{font-size:.9rem; color:var(--ink-soft)}
+  .related-list a:hover b{color:var(--brass-ink)}
+  .prose .stand{margin-top:28px}

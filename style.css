@@ -336,3 +336,39 @@
   .related-list span{font-size:.9rem; color:var(--ink-soft)}
   .related-list a:hover b{color:var(--brass-ink)}
   .prose .stand{margin-top:28px}
+  /* Förder-Check */
+  .check{max-width:780px; background:#fff; border:1px solid var(--line); padding:40px 44px; min-height:420px}
+  .check-progress{height:3px; background:var(--line); margin:0 0 26px}
+  .check-progress span{display:block; height:100%; background:var(--brass); transition:width .35s}
+  .check-step{font-size:.72rem; letter-spacing:.18em; text-transform:uppercase; color:var(--muted); font-weight:600; margin:0 0 14px}
+  .check-q{border:0; margin:0; padding:0; min-width:0}
+  .check-q legend{font-family:"Instrument Serif",Georgia,serif; font-size:clamp(1.5rem,2.6vw,2rem); line-height:1.2; padding:0; margin-bottom:10px; outline:none}
+  .check-help{font-size:.94rem; color:var(--ink-soft); margin:0 0 20px}
+  .opt{display:flex; align-items:flex-start; gap:14px; border:1px solid var(--line); padding:15px 18px; margin:10px 0; cursor:pointer; background:var(--ivory); transition:border-color .2s, background .2s}
+  .opt:hover{border-color:var(--brass)}
+  .opt input{accent-color:var(--night); margin-top:5px; flex:none}
+  .opt span{font-size:.98rem}
+  .opt:has(input:checked){border-color:var(--brass); background:var(--brass-soft)}
+  .opt:has(input:focus-visible){outline:2px solid var(--brass); outline-offset:2px}
+  .check-nav{display:flex; justify-content:space-between; gap:16px; margin-top:28px}
+  .check-nav .btn[disabled]{opacity:.4; cursor:not-allowed}
+  .check-result h2{font-size:clamp(1.7rem,3vw,2.4rem); margin:0 0 16px; outline:none}
+  .check-result > p{color:var(--ink-soft)}
+  .check-rows{list-style:none; padding:0; margin:26px 0; border-top:1px solid var(--line)}
+  .check-rows li{display:grid; grid-template-columns:200px minmax(0,1fr); gap:20px; padding:14px 0 14px 26px; border-bottom:1px solid var(--line); font-size:.93rem; position:relative}
+  .check-rows li::before{content:""; position:absolute; left:0; top:21px; width:12px; height:12px; border-radius:50%; background:var(--line)}
+  .check-rows li.ok::before{background:var(--ok)}
+  .check-rows li.mid::before{background:var(--brass)}
+  .check-rows li.no::before{background:#9A3B3B}
+  .check-rows span{color:var(--ink-soft)}
+  .check-notes{background:var(--brass-soft); border-left:3px solid var(--brass); padding:18px 22px; margin:0 0 26px}
+  .check-notes p{margin:0 0 .8em; font-size:.94rem}
+  .check-notes p:last-child{margin:0}
+  .check-cta{border-top:1px solid var(--line); padding-top:26px; margin-top:8px}
+  .check-cta-t{font-family:"Instrument Serif",Georgia,serif; font-size:1.5rem; margin:0 0 16px; color:var(--ink)}
+  .check-hint{font-size:.8rem; color:var(--muted); margin:18px 0 0; line-height:1.6}
+  .nav-links a.nav-hl{color:var(--brass-lite)}
+  .btn-line-light{border-color:rgba(243,241,236,.32); color:var(--ivory)}
+  @media (max-width:760px){ .check{padding:26px 20px} .check-rows li{grid-template-columns:1fr; gap:4px} .check-nav .btn{flex:1} }
+  .nav-links a{white-space:nowrap}
+  @media (max-width:1400px) and (min-width:1021px){ .header-tel .tel-num{display:none} .header-tel{padding:8px} .nav{gap:22px} .nav-links{gap:18px} }

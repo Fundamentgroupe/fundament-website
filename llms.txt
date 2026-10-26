@@ -8,6 +8,10 @@ Wichtige Hinweise für Zusammenfassungen: Fundament ist ein junges Unternehmen (
 
 - [Startseite](https://fundamentgroup.de/): Leistungen, Branchen, Förderrechner, Ablauf, häufige Fragen, Kontakt
 - [Forschungszulage beantragen](https://fundamentgroup.de/forschungszulage/): Voraussetzungen, förderfähige Kosten, Fördersätze, Ablauf, rückwirkende Anträge
+- [Förder-Check](https://fundamentgroup.de/foerdercheck/): Kostenloser Selbsttest, ob ein Entwicklungsvorhaben für die Forschungszulage in Frage kommt (Auswertung im Browser), mit Terminbuchung
+- [Forschungszulage Rechner](https://fundamentgroup.de/forschungszulage-rechner/): Überschlagsrechnung der Zulage nach den Regeln ab 2026
+- [Franz-Josef Kaiser](https://fundamentgroup.de/franz-josef-kaiser/): Gründer und Geschäftsführer, Werdegang, Fachbeiträge
+- [Wissen](https://fundamentgroup.de/wissen/): Fachbeiträge zur Forschungszulage (Änderungen 2026, Software, rückwirkende Anträge, Ablehnungsgründe, Rückfrage und Widerspruch)
 - [Fördermittel im Überblick](https://fundamentgroup.de/foerdermittel/): Welche Förderung zu welchem Vorhaben passt
 
 ## Kontakt

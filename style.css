@@ -372,3 +372,13 @@
   @media (max-width:760px){ .check{padding:26px 20px} .check-rows li{grid-template-columns:1fr; gap:4px} .check-nav .btn{flex:1} }
   .nav-links a{white-space:nowrap}
   @media (max-width:1400px) and (min-width:1021px){ .header-tel .tel-num{display:none} .header-tel{padding:8px} .nav{gap:22px} .nav-links{gap:18px} }
+
+  /* Schnellkontakt auf dem Handy */
+  .mobile-cta{display:none}
+  .mobile-call{display:inline-flex; align-items:center; justify-content:center; width:46px; flex:none; border:1px solid rgba(243,241,236,.32); color:var(--ivory); border-radius:2px}
+  .mobile-call svg{width:20px; height:20px; color:var(--brass)}
+  @media (max-width:760px){
+    .mobile-cta{display:flex; position:fixed; left:0; right:0; bottom:0; z-index:80; gap:8px; padding:10px 12px calc(10px + env(safe-area-inset-bottom)); background:rgba(12,15,19,.96); border-top:1px solid rgba(243,241,236,.14)}
+    .mobile-cta .btn{flex:1; padding:12px 8px; font-size:.82rem}
+    body{padding-bottom:70px}
+  }

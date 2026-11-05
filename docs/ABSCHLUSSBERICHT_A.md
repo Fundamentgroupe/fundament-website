@@ -45,7 +45,7 @@ Die Förderthemen-, Branchen- und Regionenseiten selbst (Sessions B und C) bedie
 - **Header-Navigation:** "Fördermittel" (`/foerdermittel/`) und "Gründer" wurden aus der Kopfzeile genommen und durch "Fördermittelberatung" und "Über uns" ersetzt (Platzgründe). `/foerdermittel/` bleibt im Footer, `/franz-josef-kaiser/` im Footer-Block "Fundament". Bitte bestätigen.
 - **Vorschaubild:** `og-image.png` wurde neu erzeugt (Georgia/Segoe UI statt der Hausschriften). Sozialnetzwerke cachen alte Vorschaubilder; ggf. mit dem Facebook-/LinkedIn-Debugger neu einlesen lassen.
 - **Domain-Anleitung:** siehe Abschnitt "Was ich nicht sicher weiß" in `docs/dns-weiterleitung.md` (Anbieter der zweiten Domain, vorhandener www-Eintrag, Zertifikat).
-- **Pull-Request-Anlage:** Die PR-Erstellung war aus der Arbeitsumgebung nicht möglich, falls dieser Bericht ohne PR-Link ankommt: Branch ist gepusht, PR über `https://github.com/Fundamentgroupe/fundament-website/pull/new/claude/cloud-a-technik-marke-conversion` anlegen.
+- **Pull Request:** Der PR zu diesem Branch ist #3 (Titel "A: Startseite, Förder-Check, Über Fundament, Navigation, Sitemap, llms.txt"); die Kurzfassung steht als Kommentar darunter.
 
 ## Schritte des Inhabers außerhalb des Codes (nach Wirkung sortiert)
 

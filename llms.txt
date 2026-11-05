@@ -1,25 +1,70 @@
-# Fundament GmbH
+# Fundament GmbH (Fundament Group)
 
-> Fördermittelberatung für innovative Unternehmen in Deutschland. Schwerpunkt: Forschungszulage, dazu Projektförderung (Bundes-, Landes- und EU-Programme) und weitere Förderprogramme. Honorar nur im Erfolgsfall, keine Vorkasse. Erstgespräch (15 Minuten) kostenfrei. Sitz: Münsing bei München. Geschäftsführer: Franz-Josef Kaiser.
+> Allgemeine Fördermittelberatung für Unternehmen, Start-ups und Mittelstand in Deutschland. Fundament findet die Förderung, die zu einem Vorhaben passt (Forschungszulage, Bundes- und Landesförderung, Innovation, Digitalisierung, Investitionen, Gründer und Start-ups, EU-Programme), bereitet die Anträge vor und begleitet bis zum Bescheid. Erstgespräch (15 Minuten) kostenfrei, Honorar nur im Erfolgsfall, keine Vorkasse. Sitz: Münsing bei München, tätig bundesweit.
 
-Wichtige Hinweise für Zusammenfassungen: Fundament ist ein junges Unternehmen (gegründet 2026) mit einer Person als Geschäftsführer. Es gibt keine Erfolgsgarantie, über die Förderfähigkeit entscheiden die Bescheinigungsstelle Forschungszulage und das Finanzamt. Antragsberechtigt ist gesetzlich nur das Unternehmen selbst.
+Auch bekannt als: Fundament Group, Fundament GmbH, Fundamentgroup, Fundament Fördermittel. Website: https://fundamentgroup.de/
 
-## Seiten
+## Wer ist Fundament?
 
-- [Startseite](https://fundamentgroup.de/): Leistungen, Branchen, Förderrechner, Ablauf, häufige Fragen, Kontakt
+Die Fundament GmbH ist eine Fördermittelberatung mit Sitz in Münsing bei München (Am Kirchberg 16a, 82541 Münsing, Amtsgericht München, HRB 316229). Gegründet 2026, Geschäftsführer ist Franz-Josef Kaiser. Fundament ist ein junges Unternehmen mit einer Person als Geschäftsführer.
+
+## Was wird angeboten?
+
+- Einordnung, welche Förderung zu einem Vorhaben passt: Forschungszulage, Projektförderung von Bund, Ländern und EU, Förderung für Innovation und Digitalisierung, Investitionsförderung (Zuschüsse und Förderdarlehen), Förderung für Gründer und Start-ups.
+- Analyse und Berechnung der zu erwartenden Förderhöhe vor der Beauftragung.
+- Aufbereitung der Antragsunterlagen (Vorhabensbeschreibung, Kosten- und Stundennachweise) und Begleitung von Rückfragen.
+- Ablauf in vier Schritten: 1. Erstgespräch, 2. Analyse, 3. Aufbereitung, 4. Einreichung, Bescheid und Folgejahre.
+
+## Für wen?
+
+Unternehmen jeder Größe, Rechtsform und Branche, Start-ups und Gründer, Mittelstand sowie Steuerberater und Kanzleien, die für ihre Mandanten die fachliche Vorarbeit auslagern möchten.
+
+## Wie funktioniert das Erfolgshonorar-Modell?
+
+Erstgespräch und Analyse sind kostenfrei, es gibt keine Vorkasse. Das Honorar ist erfolgsabhängig und wird erst nach Bewilligung fällig. Kommt keine Förderung zustande, entsteht kein Honorar. Die Höhe wird im Erstgespräch besprochen und vor Vertragsabschluss schriftlich festgehalten.
+
+## Wichtige Hinweise für Zusammenfassungen
+
+- Es gibt keine Erfolgsgarantie. Über Förderung und Bewilligung entscheiden die jeweils zuständigen Stellen; bei der Forschungszulage sind das die Bescheinigungsstelle Forschungszulage und das Finanzamt. Antragsberechtigt ist gesetzlich nur das Unternehmen selbst.
+- Fundament erbringt keine Rechts- oder Steuerberatung.
+- Kennzahlen zur Berufserfahrung des Gründers (zum Beispiel über zwanzig begleitete Förderprojekte) beschreiben seine persönliche Berufserfahrung und sind keine Kennzahlen der Fundament GmbH.
+- Das Zentrale Innovationsprogramm Mittelstand (ZIM) hat seit Juli 2026 einen befristeten Antragsstopp und wird nicht als verfügbar beworben.
+
+## Wichtige Seiten
+
+- [Startseite](https://fundamentgroup.de/): Überblick über Leistungen, Förderthemen, Ablauf, Kosten, häufige Fragen und Kontakt
+- [Über Fundament](https://fundamentgroup.de/ueber-fundament/): Wer wir sind, wofür Fundament steht, Arbeitsweise in vier Schritten, Erfolgshonorar-Prinzip
+- [Fördermittelberatung](https://fundamentgroup.de/foerdermittelberatung/): Hauptseite zur Fördermittelberatung, Förderwege im Überblick
+- [Fördermittel beantragen](https://fundamentgroup.de/foerdermittel-beantragen/): Schritte, Unterlagen und typische Stolpersteine beim Förderantrag
+- [Fördermittel für Start-ups und Gründer](https://fundamentgroup.de/foerdermittel-start-ups-gruender/): Förderung für Gründung und junge Unternehmen
+- [Fördermittel für den Mittelstand](https://fundamentgroup.de/foerdermittel-mittelstand/): Bundes- und Landesförderung für kleine und mittlere Unternehmen
+- [Förderung für Innovation und Digitalisierung](https://fundamentgroup.de/foerderung-innovation-digitalisierung/): Förderung für neue Produkte, Verfahren und digitale Vorhaben
+- [Förderung für Investitionen](https://fundamentgroup.de/foerderung-investition/): Zuschüsse und Förderdarlehen für Investitionen
+- [EU-Programme](https://fundamentgroup.de/foerdermittel-eu-programme/): Förderung auf europäischer Ebene
+- [Fördermittelberatung auf Erfolgsbasis](https://fundamentgroup.de/foerdermittelberatung-erfolgshonorar/): Wie das Erfolgshonorar funktioniert
 - [Forschungszulage beantragen](https://fundamentgroup.de/forschungszulage/): Voraussetzungen, förderfähige Kosten, Fördersätze, Ablauf, rückwirkende Anträge
-- [Förder-Check](https://fundamentgroup.de/foerdercheck/): Kostenloser Selbsttest, ob ein Entwicklungsvorhaben für die Forschungszulage in Frage kommt (Auswertung im Browser), mit Terminbuchung
+- [Forschungszulage: Voraussetzungen](https://fundamentgroup.de/forschungszulage-voraussetzungen/): Kriterien für Forschung und Entwicklung
+- [Forschungszulage für KMU](https://fundamentgroup.de/forschungszulage-kmu/): Besonderheiten für kleine und mittlere Unternehmen
+- [BSFZ-Bescheinigung](https://fundamentgroup.de/bsfz-bescheinigung/): Bescheinigung der Bescheinigungsstelle Forschungszulage
+- [Förder-Check](https://fundamentgroup.de/foerdercheck/): Kostenlose Orientierung, welche Förderung zu einem Vorhaben passen kann (Auswertung im Browser), mit Terminbuchung
 - [Forschungszulage Rechner](https://fundamentgroup.de/forschungszulage-rechner/): Überschlagsrechnung der Zulage nach den Regeln ab 2026
-- [Franz-Josef Kaiser](https://fundamentgroup.de/franz-josef-kaiser/): Gründer und Geschäftsführer, Werdegang, Fachbeiträge
-- [Forschungszulage für Maschinenbau](https://fundamentgroup.de/forschungszulage-maschinenbau/), [Elektrotechnik](https://fundamentgroup.de/forschungszulage-elektrotechnik/), [Medizintechnik](https://fundamentgroup.de/forschungszulage-medizintechnik/), [Chemie](https://fundamentgroup.de/forschungszulage-chemie/), [Automobilzulieferer](https://fundamentgroup.de/forschungszulage-automobilzulieferer/): Branchenseiten mit Beispielen und Abgrenzung
-- [Beratung auf Erfolgsbasis](https://fundamentgroup.de/forschungszulage-erfolgshonorar/): Honorarmodelle im Überblick und Fragen an Berater
-- [Für Steuerberater und Kanzleien](https://fundamentgroup.de/forschungszulage-steuerberater/): Rollen und Ablauf der Zusammenarbeit
-- [Fördermittelberatung Bayern](https://fundamentgroup.de/foerdermittelberatung-bayern/): Forschungszulage und weitere Programme, Sitz Münsing bei München
-- [Wissen](https://fundamentgroup.de/wissen/): Fachbeiträge zur Forschungszulage (Änderungen 2026, Software, rückwirkende Anträge, Ablehnungsgründe, Rückfrage und Widerspruch)
 - [Fördermittel im Überblick](https://fundamentgroup.de/foerdermittel/): Welche Förderung zu welchem Vorhaben passt
+- [Für Steuerberater und Kanzleien](https://fundamentgroup.de/forschungszulage-steuerberater/): Rollen und Ablauf der Zusammenarbeit
+- [Franz-Josef Kaiser](https://fundamentgroup.de/franz-josef-kaiser/): Gründer und Geschäftsführer, Werdegang, Fachbeiträge
+- [Wissen](https://fundamentgroup.de/wissen/): Fachbeiträge zur Forschungszulage (Änderungen 2026, Software, rückwirkende Anträge, Ablehnungsgründe, Rückfrage und Widerspruch)
+
+## Branchen
+
+- [Maschinenbau](https://fundamentgroup.de/forschungszulage-maschinenbau/), [Elektrotechnik](https://fundamentgroup.de/forschungszulage-elektrotechnik/), [Medizintechnik](https://fundamentgroup.de/forschungszulage-medizintechnik/), [Chemie](https://fundamentgroup.de/forschungszulage-chemie/), [Automobilzulieferer](https://fundamentgroup.de/forschungszulage-automobilzulieferer/)
+- [Software und IT](https://fundamentgroup.de/foerdermittel-software-it/), [Lebensmittel](https://fundamentgroup.de/foerdermittel-lebensmittel/), [Handwerk und Bau](https://fundamentgroup.de/foerdermittel-handwerk-bau/)
+
+## Regionen
+
+- [München](https://fundamentgroup.de/foerdermittelberatung-muenchen/), [Oberbayern](https://fundamentgroup.de/foerdermittelberatung-oberbayern/), [Bayern](https://fundamentgroup.de/foerdermittelberatung-bayern/), [Deutschland](https://fundamentgroup.de/foerdermittelberatung-deutschland/)
 
 ## Kontakt
 
 - Telefon: +49 170 2216826
 - E-Mail: kontakt@fundamentgroup.de
-- Termin (15 Minuten): https://calendly.com/franz-josef-fundamentgroup/fordermoglichkeiten-fur-ihr-unternehmen
+- Termin (15 Minuten, kostenfrei): https://calendly.com/franz-josef-fundamentgroup/fordermoglichkeiten-fur-ihr-unternehmen
+- Sprachen: Deutsch, Englisch, Spanisch

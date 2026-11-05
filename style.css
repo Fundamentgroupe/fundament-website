@@ -382,3 +382,64 @@
     .mobile-cta .btn{flex:1; padding:12px 8px; font-size:.82rem}
     body{padding-bottom:70px}
   }
+
+  /* Start- und Kopfbereich: längere Überschrift der Startseite */
+  .hero h1{max-width:20ch; font-size:clamp(2.4rem,5.2vw,4.3rem)}
+
+  /* Footer-Linkblock (gruppiert: Förderthemen, Branchen, Regionen, Fundament) */
+  .footer-links{display:grid; grid-template-columns:1.15fr 1fr .8fr .9fr; gap:36px 40px; padding:56px 0 40px}
+  .footer-links .fl-h{margin:0 0 14px; font-size:.68rem; letter-spacing:.2em; text-transform:uppercase; font-weight:600; color:var(--brass)}
+  .footer-links ul{list-style:none; margin:0; padding:0}
+  .footer-links li{margin:0}
+  .footer-links a{display:block; padding:5px 0; color:rgba(243,241,236,.82); text-decoration:none; font-size:.9rem; line-height:1.4; overflow-wrap:anywhere}
+  .footer-links a:hover,.footer-links a:focus-visible{color:var(--ivory); text-decoration:underline; text-decoration-color:var(--brass); text-underline-offset:4px}
+  @media (max-width:1020px){ .footer-links{grid-template-columns:repeat(2,minmax(0,1fr)); gap:32px 28px; padding:44px 0 28px} }
+  @media (max-width:560px){ .footer-links{grid-template-columns:1fr; gap:26px; padding:36px 0 20px} .footer-links a{padding:7px 0} .foot .right{margin-left:0} }
+
+  /* Themenkarten (Startseite: Förderthemen) */
+  .topics{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:0 48px; margin-top:52px}
+  .topic{display:block; padding:26px 0 28px; border-top:1px solid var(--line); text-decoration:none}
+  .topic b{display:block; font-family:"Instrument Serif",Georgia,"Iowan Old Style",serif; font-weight:400; font-size:1.4rem; line-height:1.2; margin-bottom:8px}
+  .topic span{display:block; font-size:.93rem; color:var(--ink-soft); line-height:1.55}
+  .topic em{display:inline-block; margin-top:12px; font-style:normal; font-size:.82rem; color:var(--brass-ink); font-weight:500; border-bottom:1px solid var(--brass)}
+  .topic:hover b,.topic:focus-visible b{color:var(--brass-ink)}
+  @media (max-width:1020px){ .topics{grid-template-columns:repeat(2,minmax(0,1fr)); gap:0 32px} }
+  @media (max-width:560px){ .topics{grid-template-columns:1fr} }
+
+  /* Termin-Bausteine: Mitte und Ende jeder Seite */
+  .mid-cta{margin:44px 0; padding:28px 32px; border:1px solid var(--line); border-left:3px solid var(--brass); background:var(--brass-soft)}
+  .mid-cta p{margin:0 0 16px; font-family:"Instrument Serif",Georgia,"Iowan Old Style",serif; font-size:1.45rem; line-height:1.25; color:var(--ink)}
+  .mid-cta .cta-row{margin-top:0}
+  .mid-cta .btn-outline{border-color:var(--ink-soft); color:var(--ink)}
+  .end-cta{padding:84px 0; background:var(--night); color:var(--ivory)}
+  .end-cta h2{font-size:clamp(1.8rem,3.4vw,2.6rem); max-width:24ch; color:var(--ivory)}
+  .end-cta p{margin:18px 0 0; max-width:62ch; color:rgba(243,241,236,.84)}
+  .end-cta .cta-row{margin-top:30px}
+  .end-cta .fine{font-size:.8rem; color:rgba(243,241,236,.7); margin-top:20px}
+  @media (max-width:1020px){ .end-cta{padding:60px 0} .mid-cta{padding:22px 20px} }
+
+  /* Fortlaufende Abschnitte mit zwei Spalten (Kosten und Aufwand) */
+  .two-box{display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:0; margin-top:48px; border-top:1px solid var(--line)}
+  .two-box > div{padding:30px 40px 34px 0; border-right:1px solid var(--line)}
+  .two-box > div:last-child{border-right:none; padding-right:0; padding-left:40px}
+  .two-box h3{font-size:1.3rem; margin-bottom:12px}
+  .two-box p,.two-box li{font-size:.97rem; color:var(--ink-soft)}
+  .two-box ul{margin:0 0 1em; padding-left:20px}
+  @media (max-width:1020px){ .two-box{grid-template-columns:1fr} .two-box > div,.two-box > div:last-child{border-right:none; padding:28px 0; padding-left:0; border-bottom:1px solid var(--line)} }
+
+  /* Schutz gegen horizontales Scrollen */
+  img,svg{max-width:100%}
+  .prose,.faq,.answer{overflow-wrap:break-word}
+  .check-opts .opt span{min-width:0; overflow-wrap:anywhere}
+  .cta-row .btn{max-width:100%}
+  @media (max-width:760px){ .cta-row .btn{white-space:normal; text-align:center} }
+
+  /* Förder-Check: Hinweisbox und Auswahl ohne JavaScript */
+  .check-fallback{border:1px solid var(--line); background:var(--brass-soft); padding:22px 26px}
+  .check-fallback p{margin:0 0 14px}
+  .check-fallback .cta-row{margin-top:8px}
+  .check-sr{position:absolute; width:1px; height:1px; margin:-1px; padding:0; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0}
+  .check-more{font-size:.93rem; margin:0 0 22px; color:var(--ink-soft)}
+
+  /* Kopfzeile bei mittleren Breiten: Platz für die längeren Navigationspunkte */
+  @media (max-width:1230px) and (min-width:1021px){ .header-cta{display:none} .nav{gap:18px} .nav-links{gap:14px} .nav-links a{font-size:.82rem} }

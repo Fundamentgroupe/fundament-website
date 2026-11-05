@@ -1,0 +1,85 @@
+{
+  "hinweis": "Neue Branchenseiten (PR E). Zum Eintragen in sitemap.xml, llms.txt und Footer-/Branchenlinks durch den Integrations-PR. lastmod 2026-11-05.",
+  "pages": [
+    {
+      "slug": "foerdermittel-energie-erneuerbare",
+      "url": "https://fundamentgroup.de/foerdermittel-energie-erneuerbare/",
+      "title": "Fördermittel für Energie und Erneuerbare | Fundament",
+      "metaDescription": "Förderung in der Energiebranche: Speicher, Steuerung, Effizienz. Typische Praxisfälle und klare Grenzen. Erstgespräch kostenfrei, Honorar nur bei Erfolg.",
+      "h1": "Fördermittel für Energie und erneuerbare Energien",
+      "footerLabel": "Energie und Erneuerbare"
+    },
+    {
+      "slug": "foerdermittel-umwelttechnik",
+      "url": "https://fundamentgroup.de/foerdermittel-umwelttechnik/",
+      "title": "Fördermittel für Umwelttechnik und Recycling | Fundament",
+      "metaDescription": "Förderung für Umwelttechnik: Wasser, Recycling, Messtechnik. Typische Praxisfälle, klare Grenzen. Erstgespräch kostenfrei, Honorar nur im Erfolgsfall.",
+      "h1": "Fördermittel für Umwelttechnik und Recycling",
+      "footerLabel": "Umwelttechnik"
+    },
+    {
+      "slug": "foerdermittel-kunststoff-verpackung",
+      "url": "https://fundamentgroup.de/foerdermittel-kunststoff-verpackung/",
+      "title": "Fördermittel für Kunststoff und Verpackung | Fundament",
+      "metaDescription": "Förderung für Kunststoff und Verpackung: Rezyklate, Alternativen, Werkzeuge. Praxisfälle, klare Grenzen. Erstgespräch kostenfrei, Honorar nur bei Erfolg.",
+      "h1": "Fördermittel für Kunststoff und Verpackung",
+      "footerLabel": "Kunststoff und Verpackung"
+    },
+    {
+      "slug": "foerdermittel-metallverarbeitung",
+      "url": "https://fundamentgroup.de/foerdermittel-metallverarbeitung/",
+      "title": "Fördermittel Metallverarbeitung und Metallbau | Fundament",
+      "metaDescription": "Förderung für Metallverarbeitung und Metallbau: Fügeverfahren, Werkstoffe, Automatisierung. Praxisfälle, klare Grenzen. Erstgespräch kostenfrei.",
+      "h1": "Fördermittel für Metallverarbeitung und Metallbau",
+      "footerLabel": "Metallverarbeitung"
+    },
+    {
+      "slug": "foerdermittel-landwirtschaft-agrartechnik",
+      "url": "https://fundamentgroup.de/foerdermittel-landwirtschaft-agrartechnik/",
+      "title": "Fördermittel für Landwirtschaft und Agrartechnik | Fundament",
+      "metaDescription": "Förderung für Agrartechnik und Betriebe: Sensorik, Precision Farming, Energie. Praxisfälle, klare Grenzen. Erstgespräch kostenfrei, Honorar nur bei Erfolg.",
+      "h1": "Fördermittel für Landwirtschaft und Agrartechnik",
+      "footerLabel": "Landwirtschaft und Agrartechnik"
+    },
+    {
+      "slug": "foerdermittel-logistik-mobilitaet",
+      "url": "https://fundamentgroup.de/foerdermittel-logistik-mobilitaet/",
+      "title": "Fördermittel für Logistik und Mobilität | Fundament GmbH",
+      "metaDescription": "Förderung für Logistik und Mobilität: Dispositionssoftware, Lagerrobotik, Fördertechnik. Praxisfälle, klare Grenzen. Erstgespräch kostenfrei.",
+      "h1": "Fördermittel für Logistik und Mobilität",
+      "footerLabel": "Logistik und Mobilität"
+    },
+    {
+      "slug": "foerdermittel-elektronik-hardware-startups",
+      "url": "https://fundamentgroup.de/foerdermittel-elektronik-hardware-startups/",
+      "title": "Fördermittel für Elektronik und Hardware-Start-ups",
+      "metaDescription": "Förderung für Hardware-Start-ups und Elektronikfirmen: Prototypen, Embedded, Sensorik. Praxisfälle, klare Grenzen. Erstgespräch kostenfrei, ohne Vorkasse.",
+      "h1": "Fördermittel für Elektronik und Hardware-Start-ups",
+      "footerLabel": "Elektronik und Hardware-Start-ups"
+    },
+    {
+      "slug": "foerdermittel-ki-und-datenprojekte",
+      "url": "https://fundamentgroup.de/foerdermittel-ki-und-datenprojekte/",
+      "title": "Fördermittel für KI und Datenprojekte | Fundament GmbH",
+      "metaDescription": "Förderung für KI-Projekte und Datenplattformen: eigene Modelle, Architektur, Digitalisierung. Praxisfälle, klare Grenzen. Erstgespräch kostenfrei.",
+      "h1": "Fördermittel für KI und Datenprojekte",
+      "footerLabel": "KI und Datenprojekte"
+    },
+    {
+      "slug": "foerdermittel-textil-und-materialien",
+      "url": "https://fundamentgroup.de/foerdermittel-textil-und-materialien/",
+      "title": "Fördermittel für Textil und Materialien | Fundament GmbH",
+      "metaDescription": "Förderung für Textilhersteller und Materialentwickler: Beschichtung, Verbunde, Recycling. Praxisfälle, klare Grenzen. Erstgespräch kostenfrei.",
+      "h1": "Fördermittel für Textil und Materialien",
+      "footerLabel": "Textil und Materialien"
+    },
+    {
+      "slug": "foerdermittel-bildung-und-weiterbildung",
+      "url": "https://fundamentgroup.de/foerdermittel-bildung-und-weiterbildung/",
+      "title": "Fördermittel für Bildung und Weiterbildung | Fundament",
+      "metaDescription": "Förderung für Bildungsanbieter und Weiterbildung: Lernplattformen, Digitalisierung, Ausstattung. Praxisfälle, klare Grenzen. Erstgespräch kostenfrei.",
+      "h1": "Fördermittel für Bildung und Weiterbildung",
+      "footerLabel": "Bildung und Weiterbildung"
+    }
+  ]
+}

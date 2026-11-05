@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "fuer-geschaeftsfuehrer",
+    "url": "https://fundamentgroup.de/fuer-geschaeftsfuehrer/",
+    "title": "Fördermittel für Geschäftsführer: Nutzen, Risiko | Fundament",
+    "meta": "Fördermittel für Geschäftsführer: Was Sie davon haben, welches Risiko bleibt und wie viel Zeit es kostet. Fundament GmbH, Erstgespräch kostenfrei.",
+    "type": "zielgruppe",
+    "title_len": 60,
+    "meta_len": 146
+  },
+  {
+    "slug": "fuer-technikleiter-entwicklung",
+    "url": "https://fundamentgroup.de/fuer-technikleiter-entwicklung/",
+    "title": "Fördermittel für Technikleiter und Entwicklung | Fundament",
+    "meta": "Was die Technik für einen Förderantrag liefern muss und warum der Aufwand klein bleibt. Für Technikleiter und Entwicklungsleiter. Fundament GmbH, Münsing.",
+    "type": "zielgruppe",
+    "title_len": 58,
+    "meta_len": 154
+  },
+  {
+    "slug": "fuer-kaufmaennische-leitung",
+    "url": "https://fundamentgroup.de/fuer-kaufmaennische-leitung/",
+    "title": "Fördermittel für die kaufmännische Leitung | Fundament",
+    "meta": "Kosten, Planung und Zeitpunkte bei Fördermitteln: Hinweise für Finanzchefs und kaufmännische Leiter. Honorar nur im Erfolgsfall. Fundament GmbH, Münsing.",
+    "type": "zielgruppe",
+    "title_len": 54,
+    "meta_len": 153
+  },
+  {
+    "slug": "fuer-gruenderteams",
+    "url": "https://fundamentgroup.de/fuer-gruenderteams/",
+    "title": "Fördermittel für Gründerteams: früh planen | Fundament",
+    "meta": "Fördermittel für Gründerteams: Warum früh planen hilft, was Sie vorbereiten können und was ehrlich offen bleibt. Fundament GmbH, Erstgespräch kostenfrei.",
+    "type": "zielgruppe",
+    "title_len": 54,
+    "meta_len": 153
+  },
+  {
+    "slug": "fuer-familienunternehmen",
+    "url": "https://fundamentgroup.de/fuer-familienunternehmen/",
+    "title": "Fördermittel für Familienunternehmen | Fundament GmbH",
+    "meta": "Fördermittel für Familienunternehmen mit Tradition: ruhig, ehrlich, ohne Beteiligungsthema. Honorar nur im Erfolgsfall. Fundament GmbH, Münsing.",
+    "type": "zielgruppe",
+    "title_len": 53,
+    "meta_len": 144
+  },
+  {
+    "slug": "checkliste-foerdermittel-unterlagen",
+    "url": "https://fundamentgroup.de/checkliste-foerdermittel-unterlagen/",
+    "title": "Checkliste Fördermittel: Unterlagen zum Abhaken | Fundament",
+    "meta": "Checkliste Unterlagen für Fördermittel zum Abhaken und Ausdrucken: Vorhaben, Kosten, Zeiträume, Nachweise. Fundament GmbH, Erstgespräch kostenfrei.",
+    "type": "checkliste",
+    "title_len": 59,
+    "meta_len": 147
+  },
+  {
+    "slug": "checkliste-foerdervorhaben-beschreiben",
+    "url": "https://fundamentgroup.de/checkliste-foerdervorhaben-beschreiben/",
+    "title": "Checkliste: Fördervorhaben beschreiben | Fundament GmbH",
+    "meta": "Gliederung und Leitfragen für die Beschreibung eines Fördervorhabens, zum Abhaken und Ausdrucken. Einfach erklärt. Fundament GmbH, Münsing bei München.",
+    "type": "checkliste",
+    "title_len": 55,
+    "meta_len": 151
+  },
+  {
+    "slug": "checkliste-vor-dem-foerderantrag",
+    "url": "https://fundamentgroup.de/checkliste-vor-dem-foerderantrag/",
+    "title": "Checkliste vor dem Förderantrag: Das klären | Fundament",
+    "meta": "Was vor dem Förderantrag und vor Vorhabenbeginn zu klären ist: allgemeine Checkliste zum Abhaken und Ausdrucken. Fundament GmbH, Erstgespräch kostenfrei.",
+    "type": "checkliste",
+    "title_len": 55,
+    "meta_len": 153
+  },
+  {
+    "slug": "vorlage-gespraechsvorbereitung-erstgespraech",
+    "url": "https://fundamentgroup.de/vorlage-gespraechsvorbereitung-erstgespraech/",
+    "title": "Vorlage: Erstgespräch Fördermittel vorbereiten | Fundament",
+    "meta": "Fragenbogen zur Vorbereitung auf das 15-Minuten-Erstgespräch zu Fördermitteln, zum Ausfüllen und Ausdrucken. Fundament GmbH, Münsing bei München.",
+    "type": "checkliste",
+    "title_len": 58,
+    "meta_len": 145
+  }
+]
